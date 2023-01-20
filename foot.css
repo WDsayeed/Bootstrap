@@ -1,0 +1,9 @@
+input#email:focus {
+    outline: none;
+   
+}
+input#email {
+   
+    border: none;
+    border-bottom: 5px solid #fff;
+}

@@ -1,0 +1,10 @@
+
+.header{
+    background-image: linear-gradient(to right, #4e4cf2, #dc36f6);
+}
+.position {
+    position: absolute;
+    top: 40%;
+    left: 37%;
+
+}
